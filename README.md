@@ -1,4 +1,4 @@
-# Asincrona 3, 4 y 5 
+# Asincrónica 3, 4 y 5 
 ## Trabajo Grupal
 Integrantes:
 - Edilt Luz Toribio Flores
